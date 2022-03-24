@@ -1,0 +1,77 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  background-image: conic-gradient(pink,red, yellow, green, blue, pink);
+}
+#for{
+ width: 300px;
+	height: 400px;
+	position: absolute;
+	left: 50%;
+	top: 60%;
+	transform: translateX(-50%) translateY(-50%);
+	border-radius: 40px;
+  border: 2px solid black;
+  text-align: center;
+  background-color: red; 
+   background-image: conic-gradient(pink,red, yellow, green, blue, pink);
+  border-radius: 50%;
+}
+input{
+	width: 80%;
+	border: none;
+	border-bottom: 1px solid #d90077;
+	padding: 10px;
+  border-radius: 20px;
+}
+#nav{
+   background-image: linear-gradient(to right,red, deeppink,pink);
+ display:flex;
+  justify-content:center;
+   border-bottom-left-radius: 75px;
+   border-top-right-radius: 75px;
+   border-bottom-right-radius: 75px;
+   border-top-left-radius: 75px;
+  height: 70px;
+  
+}
+#space{
+  margin: 4rem;
+}
+#back{
+  background-image: linear-gradient(to top, gold, palegoldenrod);
+}
+#nav{
+  background-image: linear-gradient(to right,red, deeppink,pink);
+ display:flex;
+  justify-content:center;
+   border-bottom-left-radius: 75px;
+   border-top-right-radius: 75px;
+}
+#tit{
+  color: peru;
+  background-image: linear-gradient(to right, pink,purple);
+   border-top-left-radius: 25px;
+   border-bottom-right-radius: 25px;
+  border: 1px solid black;
+}
+#inp{
+  width:300px;
+}
+#nam{
+    border: 2px solid;
+    border-collapse: collapse; 
+    width: 100%;
+   border-top-left-radius: 25px;
+   border-top-right-radius: 25px;
+}
+#col{
+   border-top-left-radius: 25px;
+   border-top-right-radius: 25px;
+}
+button{
+   background-image: linear-gradient(to top, gold, palegoldenrod);
+  
+  	border: none;
+ 
+}
